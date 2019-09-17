@@ -1,13 +1,13 @@
 <annotation>
 	<folder>Green_marker</folder>
-	<filename>IMG_20190905_120055.jpg</filename>
-	<path>E:\occipital\Green_marker-20190912T142631Z-001\Green_marker\IMG_20190905_120055.jpg</path>
+	<filename>IMG_20190905_115619.jpg</filename>
+	<path>E:\occipital\Green_marker-20190912T142631Z-001\Green_marker\2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2340</width>
-		<height>4160</height>
+		<width>4160</width>
+		<height>2340</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>967</xmin>
-			<ymin>1790</ymin>
-			<xmax>1340</xmax>
-			<ymax>2443</ymax>
+			<xmin>1678</xmin>
+			<ymin>1032</ymin>
+			<xmax>2356</xmax>
+			<ymax>1467</ymax>
 		</bndbox>
 	</object>
 </annotation>
