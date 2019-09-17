@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Green_marker</folder>
+	<filename>IMG_20190905_115751.jpg</filename>
+	<path>E:\occipital\Green_marker-20190912T142631Z-001\Green_marker\IMG_20190905_115751.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>2340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>class1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2134</xmin>
+			<ymin>1050</ymin>
+			<xmax>2843</xmax>
+			<ymax>1545</ymax>
+		</bndbox>
+	</object>
+</annotation>
